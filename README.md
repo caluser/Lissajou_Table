@@ -1,6 +1,8 @@
 # Lissajou_Table
 Visualization of lissajou tables.
 
+This requires a Processing environment to run - free to use and download: https://processing.org/
+
 
 Interaction:
 
